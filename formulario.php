@@ -116,7 +116,7 @@
 <body>
     <a href="home.php">Voltar</a>
     <div class="box">
-        <form action="formulario.php" method="POST">
+        <form action="formulario.php" method="POST" netlify>
             <fieldset>
                 <legend><b>Fórmulário de Clientes</b></legend>
                 <br>
